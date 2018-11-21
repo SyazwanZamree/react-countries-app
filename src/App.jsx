@@ -3,7 +3,7 @@ import './App.css';
 
 export default class App extends Component {
   state = {
-    name: 'react-countries-api'
+    name: 'react-countries-api',
   };
 
   render() {
